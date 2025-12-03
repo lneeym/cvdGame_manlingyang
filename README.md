@@ -21,7 +21,7 @@ Hey there! Welcome to Twin Pupils, a puzzle game that flips the script on visual
 git clone https://github.com/lneeym/cvdGame_manlingyang.git
 
 # Navigate to the game directory
-cd twin-pupils
+cd cvdGame_manlingyang/Game\ Demo
 
 # Install dependencies
 npm install
