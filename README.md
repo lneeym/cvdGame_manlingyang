@@ -2,7 +2,7 @@
 # 🎮 Twin Pupils: Color Perception Puzzles
 A puzzle game where your colorblindness isn't a bug—it's a feature.
 
-**"What if being colorblind was your superpower, not your kryptonite?**
+**"What if being colorblind was your superpower, not your kryptonite?"**
 
 In Twin Pupils, you're a secret agent whose vision flickers between normal and colorblind. Trapped in prison, that 'fresh' meal everyone sees? It's actually rotten—but only your colorblind vision reveals the truth. Blinding interrogation lights that break others? You see right through them.
 
