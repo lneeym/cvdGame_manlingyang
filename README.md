@@ -18,7 +18,7 @@ Hey there! Welcome to Twin Pupils, a puzzle game that flips the script on visual
 
 ```bash
 # Clone the repo
-git clone https://github.com/yourusername/twin-pupils.git
+git clone https://github.com/lneeym/cvdGame_manlingyang.git
 
 # Navigate to the game directory
 cd twin-pupils
