@@ -11,6 +11,13 @@ The first puzzle game where your 'disability' is your greatest ability.
 
 Hey there! Welcome to Twin Pupils, a puzzle game that flips the script on visual "disabilities." 
 
+## 🌟 Game Demo
+
+
+https://github.com/user-attachments/assets/3294c8d9-16b7-4aad-b6b7-90fd91802c2c
+
+
+
 ## 🚀 Getting Started
 
 ### Prerequisites
